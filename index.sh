@@ -1,0 +1,1 @@
+echo "Hello from Repo2, you ran the file index.sh !"
