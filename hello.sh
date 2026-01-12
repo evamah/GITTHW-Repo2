@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-echo "Hello from Repo2, you ran hel,mlo.sh!"
+echo "Hello from Repo2, you ran hel,mmlo.sh!"
